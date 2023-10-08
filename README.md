@@ -13,7 +13,7 @@ At Coinbase, I had the incredible opportunity to work on cutting-edge projects i
 During my internship at WillowTree, I was part of a dynamic team that focused on crafting exceptional mobile and web experiences for clients across various industries. I gained valuable insights into mobile app development and user experience design, working and helping fellow interns with products such as McGraw Hill, Dairy Queen, and HBO. 
 
 ### Incognito Software (Spring 2022)
-My experience at Incognito Software exposed me to the world of network management solutions. I worked on improving network performance and reliability, enhancing my skills in networking and software development.
+My experience at Incognito Software exposed me to the world of network management solutions. I worked on improving network performance and reliability, enhancing my skills in networking, software testing, and software development.
 
 ## 🚀 My Interests
 
@@ -23,7 +23,7 @@ Apart from coding, I have a deep passion for staying active and exploring the ou
 
 - **Swimming:** 🏊‍♂️ - Helped out with lifeguarding a bit for Dynamo, swam for 10+ years
 
-- **Hiking:** 🌲 - Requirement of living in Vancouver 
+- **Hiking:** 🌲 - Legal requirement of living in Vancouver 
 
 
-Thanks for visiting my GitHub profile, and take care! 💛
+Thanks for visiting my GitHub profile, and take care! 💛 Always open to making new friends, so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshxchen) :)
