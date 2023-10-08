@@ -7,7 +7,7 @@ I'm a fourth-year student at Simon Fraser University with a passion for technolo
 ## 💼 Previous Internships
 
 ### Coinbase (Fall 2022)
-At Coinbase, I had the incredible opportunity to work on cutting-edge projects in the world of cryptocurrency. I contributed to the development of secure and user-friendly financial products, working on the ecosystem team. 
+At Coinbase, I had the incredible opportunity to work on cutting-edge projects in the world of cryptocurrency. I contributed to the development of secure and user-friendly financial products, working on the ecosystem team. Contributions impacted the Wallet app on both Mobile (iOS/Android) as well as Extension (web).
 
 ### WillowTree (Summer 2022)
 During my internship at WillowTree, I was part of a dynamic team that focused on crafting exceptional mobile and web experiences for clients across various industries. I gained valuable insights into mobile app development and user experience design, working and helping fellow interns with products such as McGraw Hill, Dairy Queen, and HBO. 
