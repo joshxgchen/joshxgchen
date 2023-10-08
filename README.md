@@ -26,4 +26,4 @@ Apart from coding, I have a deep passion for staying active and exploring the ou
 - **Hiking:** 🌲 - Legal requirement of living in Vancouver 
 
 
-Thanks for visiting my GitHub profile, and take care! 💛 Always open to making new friends, so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshxchen) :)
+Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshxchen) Take care!
