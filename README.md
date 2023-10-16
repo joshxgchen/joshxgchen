@@ -2,7 +2,7 @@
 
 I'm a fourth-year student at Simon Fraser University with a passion for technology, software development, and development. With a background in computer science and a strong foundation in software engineering, I'm on a journey to make a meaningful impact through code and innovation.
 
-**Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not public.**
+**Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not all public.**
 
 ## 💼 Previous Internships
 
