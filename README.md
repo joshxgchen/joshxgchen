@@ -19,11 +19,11 @@ My experience at Incognito Software exposed me to the world of network managemen
 
 Apart from coding, I have a deep passion for staying active and exploring the outdoors. Here are some of my favorite activities:
 
-- **Ultimate Frisbee** 🥏 - Played the ultimate team in high school, playing recreationally to this day!
+- **Ultimate Frisbee** 🥏 - played the ultimate team in high school, playing recreationally to this day!
 
-- **Swimming:** 🏊‍♂️ - Helped out with lifeguarding a bit for Dynamo, swam for 10+ years
+- **Swimming:** 🏊‍♂️ - helped out with lifeguarding a bit for Dynamo, swam for 10+ years
 
-- **Hiking:** 🌲 - Legal requirement of living in Vancouver 
+- **Hiking:** 🌲 - legal requirement of living in Vancouver 
 
 
 Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/joshxchen) 
