@@ -31,7 +31,7 @@ Take care!
 
 ## Tools
 
-[![Skills:](https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css,wasm)](https://skillicons.dev)
+[![Skills:](https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css,wasm)](test)
 
 
 
