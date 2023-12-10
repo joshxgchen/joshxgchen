@@ -28,3 +28,15 @@ Apart from coding, I have a deep passion for staying active and exploring the ou
 
 Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/joshxchen) 
 Take care!
+
+## Tools
+
+![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/64243f99-e19c-4880-8e93-5692aa50116a) ![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/a376093a-95ff-42cb-8b15-b0ffa585c7d5) ![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/e36c0e7d-7cf1-4620-b752-f5b68c2136f7) ![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/ed3c333a-f0a6-43d4-a8b6-edfaeb6bfe25) ![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/c2b5c3d1-c993-4d40-90a9-1e986239cdef) ![image](https://github.com/joshxgchen/joshxgchen/assets/97403813/7b472446-c3ec-42fc-9366-b558f7662b51) ![image] ![Uploading image.png…]()
+(https://github.com/joshxgchen/joshxgchen/assets/97403813/cb264106-11fe-4f70-8cfb-ae6ca6826c4e)
+
+
+
+
+
+
+
