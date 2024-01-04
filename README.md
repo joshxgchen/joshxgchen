@@ -27,7 +27,7 @@ Apart from coding, I have a deep passion for staying active and exploring the ou
 
 
 Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/joshxchen) 
-Take care!
+Take care, and happy new year :)
 
 ## Tools
 
