@@ -1,6 +1,6 @@
 # Hello, I'm Josh! 👋
 
-I'm a fourth-year student at Simon Fraser University with a passion for technology, software development, and development. With a background in computer science and a strong foundation in software engineering, I'm on a journey to make a meaningful impact through code and innovation.
+I'm currently a software engineer at Meta. Hope everything is going well!
 
 **Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not all public. ANY FINANCIAL-RELATED REPOS ARE PRIVATE, as well as projects that contain my API key [ie: Spotify]**
 
