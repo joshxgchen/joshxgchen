@@ -4,16 +4,19 @@ I'm currently a software engineer at Meta. Hope everything is going well!
 
 **Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not all public. ANY FINANCIAL-RELATED REPOS ARE PRIVATE, as well as projects that contain my API key [ie: Spotify]**
 
-## 💼 Previous Internships
+## 💼 Work Experience
 
-### Coinbase (Fall 2022)
-At Coinbase, I had the opportunity to work on projects in cryptocurrency. I contributed to the development of secure and user-friendly customer products, working on the ecosystem team. Contributions impacted the Wallet app on both Mobile (iOS/Android) as well as Extension (web).
+### Meta 
+
+Currently a software engineer at Meta. Hack, React.
+
+### Coinbase Internship
+
+Interned in '22 Fall for a full-stack (primarily FE) internship. React Mobile + Typescript, Golang changes.
 
 ### WillowTree (Summer 2022)
-During my internship at WillowTree, I was part of a dynamic team that focused on crafting exceptional mobile and web experiences for clients across various industries. I gained valuable insights into mobile app development and user experience design, working and helping fellow interns with products such as McGraw Hill, Dairy Queen, and HBO. 
 
-### Incognito Software (Spring 2022)
-My experience at Incognito Software exposed me to the world of network management solutions. I worked on improving network performance and reliability, enhancing my skills in networking, software testing, and software development.
+Did test engineering and also an intern project. Love the company so so much. Worked in Kotlin and Flutter.
 
 ## 📚 My Interests
 
